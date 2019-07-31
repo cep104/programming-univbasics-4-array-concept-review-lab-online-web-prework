@@ -3,6 +3,7 @@ def find_element_index(array, value_to_find)
  length.times do |value_to_find|
    puts |value_to_find|
 end
+end
 
 def find_max_value(array)
   # Add your solution here
